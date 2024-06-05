@@ -1,0 +1,155 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: red;
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.justify-left{
+    justify-content: left;
+
+}
+.justify-left1{
+    justify-content: left;
+    list-style: none;
+
+}
+
+.flex-col{
+    flex-direction:column ;
+}
+.font-bold{
+    font-weight: bolder;
+    
+}
+.my-1{
+    margin-top: 23px;
+    margin-bottom: 23px;
+    font-size: 100px !important;
+    font-family: 'Volkhov' , sans-serif ;
+    color: #21243D;
+}
+.my-2{
+    margin-top: 23px;
+    margin-bottom: 23px;
+    font-size: 100px !important;
+    font-family: 'Volkhov' , sans-serif ;
+    color: #21243D;
+    justify-content: center;
+
+}
+.text-center0{
+    font-family: 'inter' , sans-serif;
+    color: #66645E;
+    
+
+}
+.text-center2{
+    font-family: 'inter' , sans-serif;
+    color: #66645E;
+    text-align: center;
+
+}
+.px-2{
+    padding-left: 23px;
+    padding-right: 23px;
+}
+.px-2x{
+    padding-left: 23px;
+    padding-right: 23px;
+}
+.text-blue{
+    color: rgb(25, 25, 74);  
+    font-size: 200%; 
+}
+.btn {
+    padding: 20px 15px;
+    border: 2px solid white;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    background-color: rgb(25, 25, 74);
+    display: inline-block; /* Add this property to make the button inline */
+    margin-top: 30px; /* Adjust the top margin as needed */
+    margin-left: 0; /* Remove any unnecessary left margin */
+    font-size: inherit; /* Inherit the font size from the parent */
+}
+
+/* Add hover effect to the button */
+.btn:hover {
+    background-color: #f9c13a; /* Change the color on hover if desired */
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+}
+.text-left{
+    text-align: left;
+}
+.text-center1{
+    text-align: center;
+}
+.text-center{
+    text-align: center;
+}
+.my-3{
+    margin-top: 26px;
+    margin-bottom: 26px;
+    font-size: 50px !important;
+    font-family: 'Volkhov' , sans-serif ;
+    color: #21243D;
+    justify-content: center;
+
+}
+
+.text-centerresume{
+    text-align: center;
+}
+.my-4{
+    margin-top: 26px;
+    margin-bottom: 26px;
+    font-size: 50px !important;
+    font-family: 'Volkhov' , sans-serif ;
+    color: #21243D;
+    justify-content: center;
+
+}
+
+
+
+.text-center3{
+    font-family: 'inter' , sans-serif;
+    color: #66645E;
+
+}
+.section4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin-bottom: 20px;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    margin-bottom: 20px;
+    font-family: 'inter' , sans-serif;
+    color: #66645E;
+    font-size: smaller;
+}
+
